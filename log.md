@@ -24,7 +24,7 @@
 
 **Link to work:** [Day02 Work](https://github.com/ngabble/100DaysOfCode)
 
-### Day 2: May 22, 2019
+### Day 3: May 23, 2019
 
 **Today's Progress**: More challenge programs at HackerRank.com
 
