@@ -23,3 +23,11 @@
 **Thoughts:** This one kicked my butt. I spent an hour yesterday trying to massage the data into place. I might have been able to brute force it with a O(n) loop, but I stuck to a math solution and got a much faster solution, eventually. 
 
 **Link to work:** [Day02 Work](https://github.com/ngabble/100DaysOfCode)
+
+### Day 2: May 22, 2019
+
+**Today's Progress**: More challenge programs at HackerRank.com
+
+**Thoughts:** I tried brute force yet again. It worked for almost all of the solutions, so my code was sound, which felt good, but it timed-out at large n values :( 
+
+**Link to work:** [Day03 Work](https://github.com/ngabble/100DaysOfCode)
