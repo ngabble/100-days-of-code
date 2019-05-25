@@ -31,3 +31,11 @@
 **Thoughts:** I tried brute force yet again. It worked for almost all of the solutions, so my code was sound, which felt good, but it timed-out at large n values :( 
 
 **Link to work:** [Day03 Work](https://github.com/ngabble/100DaysOfCode)
+
+### Day 4: May 24, 2019
+
+**Today's Progress**: I did more documentation. Gantt Charts, CRUD Matrixes, and more USE Case Diagrams.
+
+**Thoughts:** I've really been enjoying exploring all of these different ways to visualise systems and projects. 
+
+**Link to work:** I still need to figure out the best way to put in my non-code work. 
